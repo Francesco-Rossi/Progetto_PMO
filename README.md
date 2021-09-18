@@ -2,7 +2,9 @@
 Progetto "Simulazione Ristorante" - PMO
 ***
 Nome : Francesco Pio Rossi
+***
 Titolo del progetto : Simulazione Ristorante.
+***
 Specifica : L'applicazione simula il comportamento di un cliente in un Ristorante.
 Ogni giorno il ristorante  prevede "Il menù del giorno" il quale è composto da 3 portate :  un primo, un secondo e un dolce scelti casualmente dal menù. 
 All'inizio della simulazione il cliente può scegliere se ordinare il menù del giorno oppure ordinare le varie portate singolarmente.
